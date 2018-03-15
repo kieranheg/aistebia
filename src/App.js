@@ -19,7 +19,7 @@ class App extends Component {
     return (
       <div className="form-style-10">
         <header className="App-header">
-          <h1 className="App-title">Aiste Bia</h1>
+          <h1 className="App-title">Aiste Bia<span>Register now!</span></h1>
         </header>
         <div className="App-member-details">
           <div>
